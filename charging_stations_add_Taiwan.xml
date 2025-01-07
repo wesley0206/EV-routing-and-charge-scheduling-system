@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<additional><chargingStation id="cs_1085" lane="E1_0" startPos="25.08" endPos="35.08" />
+    <chargingStation id="cs_1944" lane="E4_0" startPos="23.58" endPos="33.58" />
+    <chargingStation id="cs_1946" lane="E10_0" startPos="28.42" endPos="38.42" />
+    <chargingStation id="cs_2706" lane="E7_0" startPos="27.12" endPos="37.12" />
+    <chargingStation id="cs_2971" lane="E13_0" startPos="28.79" endPos="38.79" />
+    <chargingStation id="cs_3738" lane="E16_0" startPos="18.68" endPos="28.68" />
+    <chargingStation id="cs_3739" lane="E19_0" startPos="34.36" endPos="44.36" />
+    <chargingStation id="cs_3740" lane="E22_0" startPos="24.22" endPos="34.22" />
+    <chargingStation id="cs_3741" lane="E25_0" startPos="23.44" endPos="33.44" />
+    <chargingStation id="cs_3742" lane="E28_0" startPos="15.48" endPos="25.48" />
+    <chargingStation id="cs_3743" lane="E31_0" startPos="22.71" endPos="32.71" />
+    <chargingStation id="cs_3744" lane="E34_0" startPos="28.58" endPos="38.58" />
+    <chargingStation id="cs_3745" lane="E37_0" startPos="31.94" endPos="41.94" />
+    <chargingStation id="cs_3746" lane="E40_0" startPos="15.53" endPos="25.53" />
+    <chargingStation id="cs_3747" lane="E43_0" startPos="22.28" endPos="32.28" />
+    <chargingStation id="cs_3748" lane="E46_0" startPos="21.96" endPos="31.96" />
+    <chargingStation id="cs_3749" lane="E49_0" startPos="16.31" endPos="26.31" />
+    <chargingStation id="cs_3750" lane="E52_0" startPos="20.46" endPos="30.46" />
+    <chargingStation id="cs_3751" lane="E55_0" startPos="28.54" endPos="38.54" />
+    <chargingStation id="cs_3752" lane="E58_0" startPos="21.46" endPos="31.46" />
+    <chargingStation id="cs_3753" lane="E61_0" startPos="25.87" endPos="35.87" />
+    <chargingStation id="cs_3754" lane="E64_0" startPos="24.89" endPos="34.89" />
+    <chargingStation id="cs_3755" lane="E67_0" startPos="31.51" endPos="41.51" />
+    <chargingStation id="cs_3756" lane="E70_0" startPos="29.83" endPos="39.83" />
+    <chargingStation id="cs_3757" lane="E73_0" startPos="26.17" endPos="36.17" />
+    <chargingStation id="cs_3758" lane="E76_0" startPos="21.14" endPos="31.14" />
+    <chargingStation id="cs_3759" lane="E79_0" startPos="30.45" endPos="40.45" />
+    <chargingStation id="cs_3760" lane="E82_0" startPos="17.93" endPos="27.93" />
+    <chargingStation id="cs_3761" lane="E85_0" startPos="30.70" endPos="40.70" />
+    <chargingStation id="cs_3762" lane="E88_0" startPos="27.64" endPos="37.64" />
+    <chargingStation id="cs_3763" lane="E91_0" startPos="36.61" endPos="46.61" />
+    <chargingStation id="cs_3764" lane="E94_0" startPos="21.10" endPos="31.10" />
+    <chargingStation id="cs_3765" lane="E96_1" startPos="176.94" endPos="186.94" />
+    <chargingStation id="cs_3766" lane="E99_0" startPos="119.99" endPos="129.99" />
+    <chargingStation id="cs_3767" lane="E102_0" startPos="19.06" endPos="29.06" />
+    <chargingStation id="cs_3768" lane="E105_0" startPos="32.10" endPos="42.10" />
+    <chargingStation id="cs_3769" lane="E111_0" startPos="19.21" endPos="29.21" />
+    <chargingStation id="cs_3770" lane="E108_0" startPos="29.01" endPos="39.01" />
+    <chargingStation id="cs_3771" lane="E114_0" startPos="27.12" endPos="37.12" />
+    <chargingStation id="cs_3772" lane="E117_0" startPos="25.88" endPos="35.88" />
+    <chargingStation id="cs_3773" lane="-14798_1" startPos="284.54" endPos="294.54" />
+    <chargingStation id="cs_3774" lane="E120_0" startPos="31.84" endPos="41.84" />
+    <chargingStation id="cs_3775" lane="E123_0" startPos="25.75" endPos="35.75" />
+    <chargingStation id="cs_3776" lane="E126_0" startPos="18.65" endPos="28.65" />
+    <chargingStation id="cs_3777" lane="E131_0" startPos="21.72" endPos="31.72" />
+    </additional>
